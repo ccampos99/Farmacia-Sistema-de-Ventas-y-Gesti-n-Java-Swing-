@@ -1,0 +1,9 @@
+3002;Pasta dental Colgate;4.2
+3003;Enjuague bucal;16.5
+3004;Colgate Triple Accion;2.4
+3005;Jabon para cara;22.0
+3006;Cepillo Electrico;19.0
+3007;Hilo Dental;3.5
+3008;Levonogestrel;50.0
+3009;Jabon CeraVe;65.2
+3010;Shampoo Pantene;4.5
