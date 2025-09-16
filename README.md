@@ -1,2 +1,2 @@
-# Farmacia-Sistema-de-Ventas-y-Gesti-n-Java-Swing-
-Aplicación de escritorio en Java Swing para administrar una farmacia: ventas, productos, clientes y vendedores, con reportes y UI con fondos personalizados. Persistencia en archivos .txt (CSV-like) y manejo de datos con arreglos/listas.
+# Farmacia-Sistema-de-Ventas-y-Gestion-Java-Swing-
+Proyecto académico de gestión de farmacia desarrollado en Java Swing. Incluye módulos de ventas, productos, clientes, vendedores y reportes; interfaz con paneles internos y fondos (JDesktopPane); y persistencia simple mediante archivos de texto (cliente.txt, producto.txt, vendedor.txt, factura.txt). El modelo usa clases como Clases.Producto y Clases.Factura, estructuras tipo arreglo/lista para colecciones (Arreglos.ArregloCliente, etc.) y eventos de UI (p. ej., MouseAdapter en reportes).
